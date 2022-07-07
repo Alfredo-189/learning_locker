@@ -8433,8 +8433,8 @@ moment@2.3.1:
   resolved "https://registry.yarnpkg.com/moment/-/moment-2.3.1.tgz#da73d70f62656bb5b7eaf0387f793bf6121312e3"
 
 "moment@>= 2.9.0", moment@^2.10.6, moment@^2.11.2, moment@^2.18.0, moment@^2.22.1:
-  version "2.24.0"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.24.0.tgz#0d055d53f5052aa653c9f6eb68bb5d12bf5c2b5b"
+  version "2.29.4"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.4.tgz#3dbe052889fe7c1b2ed966fcb3a77328964ef108"
 
 mongodb-core@2.1.20:
   version "2.1.20"
@@ -9757,6 +9757,16 @@ passport-oauth1@1.x.x:
 passport-oauth2@1.x.x:
   version "1.5.0"
   resolved "https://registry.yarnpkg.com/passport-oauth2/-/passport-oauth2-1.5.0.tgz#64babbb54ac46a4dcab35e7f266ed5294e3c4108"
+  dependencies:
+    base64url "3.x.x"
+    oauth "0.9.x"
+    passport-strategy "1.x.x"
+    uid2 "0.0.x"
+    utils-merge "1.x.x"
+
+passport-oauth2@^1.5.0:
+  version "1.6.1"
+  resolved "https://registry.yarnpkg.com/passport-oauth2/-/passport-oauth2-1.6.1.tgz#c5aee8f849ce8bd436c7f81d904a3cd1666f181b"
   dependencies:
     base64url "3.x.x"
     oauth "0.9.x"
