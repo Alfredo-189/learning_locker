@@ -210,7 +210,7 @@
     "isomorphic-style-loader": "^2.0.0",
     "jest": "^19.0.2",
     "jest-enzyme": "^4.0.1",
-    "mocha": "^2.3.3",
+    "mocha": "^10.1.0",
     "mocha-mongoose": "^1.2.0",
     "mocha-webpack": "^0.7.0",
     "nock": "^9.0.13",
